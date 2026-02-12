@@ -1,8 +1,8 @@
-# 🖥️ CIPFP Batoi · Organització GitHub
+# 🖥️ CIP FP Batoi · Organització GitHub
 
-Benvinguts a l’organització oficial de **CIPFP Batoi** en GitHub.
+Benvinguts a l’organització oficial de **CIP FP Batoi** en GitHub.
 
-El **CIPFP Batoi (Centre Integrat Públic de Formació Professional Batoi)** és un centre públic de Formació Professional situat a Alcoi (Alacant), dependent de la Generalitat Valenciana.
+El **CIP FP Batoi (Centre Integrat Públic de Formació Professional Batoi)** és un centre públic de Formació Professional situat a Alcoi (Alacant), dependent de la Generalitat Valenciana.
 
 🌐 Web oficial del centre:  
 https://portal.edu.gva.es/cipfpbatoi/
@@ -14,7 +14,7 @@ https://portal.edu.gva.es/cipfpbatoi/oferta-formativa-reglada/
 
 # 🎓 Qui som
 
-El CIPFP Batoi és un centre integrat de Formació Professional que imparteix ensenyaments reglats de:
+El CIP FP Batoi és un centre integrat de Formació Professional que imparteix ensenyaments reglats de:
 
 * Grau Bàsic  
 * Grau Mitjà  
@@ -111,7 +111,7 @@ Bones pràctiques recomanades:
 
 # 📍 Contacte
 
-📌 CIPFP Batoi  
+📌 CIP FP Batoi  
 Alcoi (Alacant)  
 Generalitat Valenciana  
 
@@ -119,4 +119,4 @@ Generalitat Valenciana
 
 ---
 
-> Aquesta organització GitHub forma part de l’ecosistema educatiu del CIPFP Batoi i està orientada principalment a la família professional d’Informàtica i Comunicacions.
+> Aquesta organització GitHub forma part de l’ecosistema educatiu del CIP FP Batoi i està orientada principalment a la família professional d’Informàtica i Comunicacions.
